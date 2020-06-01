@@ -1,4 +1,4 @@
-package com.example.intentapp1;
+package com.example.intentapp;
 
 import org.junit.Test;
 
